@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">pertemuan6</string>
+    <string name="nama_hm">Nama HM</string>
+    <string name="deskripsi_himpunan_mahasiswa">Deskripsi Himpunan Mahasiswa</string>
+    <string name="hmittp">One Piece</string>
+
+    <string-array name="data_name">
+        <item>Monkey D Luffy</item>
+        <item>Roronoa Zoro</item>
+        <item>Vinsmoke Sanji</item>
+        <item>Traflgar D Water Law</item>
+        <item>Charlotte Katakuri</item>
+        <item>Portgas D Ace</item>
+        <item>Shanks</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Monkey D. Luffy, juga dikenal sebagai "Topi Jerami Luffy" dan umumnya sebagai
+            "Topi Jerami", adalah protagonis utama dari manga dan anime, One Piece.</item>
+        <item>Roronoa Zoro juga dikenal sebagai "Pemburu Bajak Laut" Zoro adalah seorang bajak laut dan ahli pedang dari
+            kelompok Bajak Laut Topi Jerami dan merupakan salah satu karakter utama dalam cerita One Piece.
+        </item>
+        <item>Sanji adalah karakter dari kru bajak laut topi Jerami dalam anime One Piece. Sanji memang dikenal sebagai koki yang handal dan
+            sangat menghormati para wanita, walaupun wanita itu jahat dan baru dikenalnya sekalipun.</item>
+        <item>Trafalgar D. Water Law adalah kapten sekaligus dokter Bajak Laut Jantung, merupakan salah satu bajak laut rookie yang di
+            labeli sebagai Eleven Supernova dengan nilai bounty sebesar Berry 200.000.000.</item>
+        <item>Charlotte Katakuri adalah putra kedua dan anak ketiga dari Keluarga Charlotte, dan kakak sulung dari Daifuku dan Oven.
+            Dia adalah salah satu dari Tiga Komandan Manisan dari Bajak Laut Big Mom.</item>
+        <item>Portgas D. Ace, dikenal dengan julukan "Tinju Api Ace" (Hiken no Ace) adalah komandan Divisi ke-2 Bajak Laut Shirohige.</item>
+        <item>Akagami no Shanks atau Shanks si rambut merah merupakan salah satu bajak laut terkuat yang ada di One Piece. Shanks merupakan salah satu empat kaisar laut di dunia baru selain Big Mom, Kaido, dan Blackbeard.</item>
+    </string-array>
+    <string-array name="photo">
+
+        <item>https://cdn.sindonews.net/dyn/620/content/2018/03/20/158/1291064/kalahkan-katakuri-uang-hadiah-monkey-d-luffy-bakal-naik-u0h.jpg</item>
+        <item>https://i.ytimg.com/vi/WNu619Lphgc/maxresdefault.jpg</item>
+        <item>https://cdn.myanimelist.net/s/common/uploaded_files/1476881633-e71f544272d9907d6041c44dec7f97fd.png</item>
+        <item>https://akibento.com/blog/wp-content/uploads/2017/01/trafalgar.jpg</item>
+        <item>https://img1.ak.crunchyroll.com/i/spire1/290aa64444c59fe05cc0c128a81e39741540394228_large.jpg</item>
+        <item>https://cdn.sindonews.net/dyn/620/content/2017/08/19/158/1231759/eiichiro-oda-bikin-manga-spin-off-one-piece-tentang-portgas-d-ace-gsr.jpg</item>
+        <item>https://media.comicbook.com/2019/06/3uvmt2n-1173747-1280x0.jpeg</item>
+    </string-array>
+</resources>
